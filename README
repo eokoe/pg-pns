@@ -1,6 +1,6 @@
 # PostgreSQL Push Notification Service
 
-Uses PostgreSQL Listen/Notify to send push notification for Android (GCM) and IOS (APNs) devices.
+Use PostgreSQL Listen/Notify to send push notification for Android (GCM) and IOS (APNs) devices.
 
 # Usage
 
