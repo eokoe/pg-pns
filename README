@@ -1,0 +1,14 @@
+# PostgreSQL Push Notification Service
+
+Uses PostgreSQL Listen/Notify to send push notification for Android (GCM) and IOS (APNs) devices.
+
+# Usage
+
+
+# Using with docker
+
+
+# Requirements (when using with docker)
+
+- PostgreSQL 9.1 and newer
+
